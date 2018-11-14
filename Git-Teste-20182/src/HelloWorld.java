@@ -5,6 +5,7 @@ public class HelloWorld {
 		
 		System.out.println("Eclipse change!!!");
 
-		System.out.println("Bash change! [branch master]");
+		System.out.println("Bash change! [branch master+bash]");
+
 	}
 }
